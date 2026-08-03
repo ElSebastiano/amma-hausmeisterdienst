@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-labelledby="amma-logo-title">
+  <title id="amma-logo-title">AMMA Hausmeisterdienst</title>
+  <g>
+    <rect x="0" y="4" width="56" height="56" rx="14" fill="#198348"/>
+    <path d="M28 14 L47 30 H41 V46 H31 V35 H25 V46 H15 V30 H9 Z" fill="#FFFDFC"/>
+    <path d="M18.5 40.5c3-6 9-9 15.5-9 0 6-3 11-9 13.5-3.3 1.4-6.5.6-6.5.6s-1.5-2.2 0-5.1z" fill="#A6D5B9"/>
+  </g>
+  <text x="70" y="34" font-family="'Manrope','Inter',sans-serif" font-weight="800" font-size="26" letter-spacing="0.5" fill="#161616">AMMA</text>
+  <text x="70" y="52" font-family="'Manrope','Inter',sans-serif" font-weight="600" font-size="12.5" letter-spacing="0.4" fill="#198348">Hausmeisterdienst</text>
+</svg>

@@ -1,0 +1,16 @@
+# Interne Analyse-/Recherche-Dateien – nicht für den öffentlichen Kunden-Ordner bestimmt
+phase1_analyse.md
+phase2_markenanalyse.md
+phase3_strategie.md
+phase4_*.md
+Amma_Hausmeisterdienst_Unternehmensdossier.md
+*_Akquise.md
+docs/
+VOR-UEBERGABE-CHECKLISTE.md
+
+# Ursprüngliches, unkomprimiertes Referenzbild (Duplikat der optimierten Dateien in assets/img/)
+Amma_Hausmeisterdienst_Hero_Referenz.png
+
+# OS-/Editor-Dateien
+.DS_Store
+Thumbs.db

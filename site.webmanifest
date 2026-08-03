@@ -1,0 +1,12 @@
+{
+  "name": "AMMA Hausmeisterdienst",
+  "short_name": "AMMA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdfc",
+  "theme_color": "#198348",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
