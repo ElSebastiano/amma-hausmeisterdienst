@@ -352,15 +352,21 @@
           </div>
 
           <div class="calendly-block" style="margin-top:32px;">
-            <h3 style="color:#fff;">Termin online vereinbaren</h3>
-            <p style="color:#cfd6d0;">Die Online-Terminbuchung wird ergänzt, sobald AMMA einen Calendly-Zugang bereitstellt. Bis dahin vereinbaren Sie Termine bitte telefonisch.</p>
+            <h3>Termin online vereinbaren</h3>
+            <p>Die Online-Terminbuchung wird ergänzt, sobald AMMA einen Calendly-Zugang bereitstellt. Bis dahin vereinbaren Sie Termine bitte telefonisch.</p>
             <!--
               Calendly-Einbindung (Platzhalter): sobald ein Calendly-Link von AMMA vorliegt,
               das Skript https://assets.calendly.com/assets/external/widget.js einbinden und
-              data-url unten auf den echten Link setzen.
+              data-url unten auf den echten Link setzen (die Vorschaugrafik darunter dann entfernen).
               <div class="calendly-inline-widget" data-url="https://calendly.com/CALENDLY-LINK-HIER/beratung"></div>
             -->
-            <div class="calendly-inline-widget" aria-hidden="true">Calendly-Terminbuchung folgt</div>
+            <img
+              class="calendly-preview-img"
+              src="/assets/img/calendly-preview.svg"
+              alt="Beispielhafte Vorschau einer Online-Terminbuchung mit Kalenderansicht und wählbaren Uhrzeiten – noch nicht mit einem echten Calendly-Zugang verbunden"
+              width="480"
+              height="300"
+              loading="lazy">
           </div>
         </div>
 
@@ -430,7 +436,7 @@
             </div>
             <button type="submit" class="btn btn-primary btn-block" style="margin-top:24px;">Anfrage senden</button>
             <p class="form-note" role="status" id="form-status" hidden tabindex="-1"></p>
-            <p class="form-note">Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Angaben gemäß <a href="/datenschutz.html" style="color:var(--color-sage);">Datenschutzerklärung</a> zu.</p>
+            <p class="form-note">Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Angaben gemäß <a href="/datenschutz.html" style="color:var(--color-primary-dark);">Datenschutzerklärung</a> zu.</p>
           </form>
         </div>
       </div>

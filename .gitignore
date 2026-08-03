@@ -14,3 +14,6 @@ Amma_Hausmeisterdienst_Hero_Referenz.png
 # OS-/Editor-Dateien
 .DS_Store
 Thumbs.db
+
+# Lokale Claude-Code-Sitzungsdateien
+.claude/
